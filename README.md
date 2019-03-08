@@ -1,4 +1,4 @@
-# React Projects
+# React To-Do Project
 
 A ToDo project to get familiar with the React framework.
 
